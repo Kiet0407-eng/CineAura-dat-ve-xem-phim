@@ -1,0 +1,6 @@
+{
+  "name": "CineAura",
+  "description": "Hệ thống đặt vé rạp chiếu phim CineAura thời gian thực, phong cách thiết kế Metiz Cinema sáng bóng, tinh tế, trải nghiệm đặt chỗ ngồi và bắp nước VIP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
